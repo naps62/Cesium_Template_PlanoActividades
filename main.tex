@@ -1,0 +1,59 @@
+\documentclass[a4paper,14pt]{article}
+
+%main packages
+\usepackage{graphicx}
+\usepackage[portuguese]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{indentfirst}
+\usepackage{lipsum}
+\usepackage{enumitem}
+\usepackage{multirow}
+\usepackage{eurosym}
+
+%header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\renewcommand{\headrulewidth}{0pt}
+\lhead{\includegraphics[width=0.3\textwidth]{files/cesiumLogoSolido}}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+%margins
+\usepackage[right=1in,left=1in]{geometry}
+
+%title formats
+\usepackage{titlesec}
+\titleformat{\section}[display]{\centering}{\sectiontitle}{0pt}{\Large\textbf}
+\titleformat{\subsection}[display]{}{\sectiontitle}{0pt}{\large\textbf}
+\titleformat{\subsubsection}[display]{}{\sectiontitle}{0pt}{\textbf}
+\titlespacing{\section}{0pt}{0pt}{20pt}
+\titlespacing{\subsection}{0pt}{0pt}{10pt}
+
+%Arial font
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{phv}
+
+%custom itemize
+\newenvironment{itemizedash}{\begin{enumerate}[label=-]}{\end{enumerate}}
+
+% No section numbering
+\renewcommand{\thesection}{}
+\renewcommand{\thesubsection}{}
+\renewcommand{\thesubsubsection}{}
+
+\title{Plano de Actividades}
+\date{2010/2011}
+
+\begin{document}
+
+\input{capa.tex}
+\input{indice.tex}
+\input{geral.tex}
+\input{content.tex}
+\input{final.tex}
+
+\end{document}

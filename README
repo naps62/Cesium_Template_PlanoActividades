@@ -1,0 +1,22 @@
+main.tex - estrutura principal (nao mexer, apenas para formatar a estrutura do documento)
+geral.tex - introdução, texto, etc (cenas para aparecer no inicio do documento
+final.tex - incluido no fim do documento (neste momento serve para a secção de material necessário)
+
+pasta templates:
+    contem os templates para criar as secções de departamentos e actividades
+    NAO EDITAR ESTES FICHEIROS, nao sao usados no documento final
+    
+pasta files:
+    tem só o logo do cesium para o cabeçalho
+    
+pasta departamentos:
+    criar aqui uma pasta por departamento
+    essa pasta deverá ter:
+        - um ficheiro main.tex, que pode seguir o formato do template departamentos.tex
+        - outros ficheiros .tex, que serão considerados actividades
+        
+        
+
+para compilar, incluindo automaticamente as referencias de todos os ficheiros de departamento e actividades, usar o Makefile
+(aka: fazer apenas "make" ou outra das opções incluidas (ver Makefile))
+      
