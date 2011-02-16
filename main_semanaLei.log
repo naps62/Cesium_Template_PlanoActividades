@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  16 FEB 2011 20:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  16 FEB 2011 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**main_semanaLei.tex
+(./main_semanaLei.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
@@ -165,8 +165,8 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
 )
-No file main.aux.
-\openout1 = `main.aux'.
+(./main_semanaLei.aux)
+\openout1 = `main_semanaLei.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
@@ -181,7 +181,7 @@ LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 52.
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
@@ -240,138 +240,67 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-(./capa.tex <files/cesiumLogoSolido.png, id=1, 356.532pt x 97.3236pt>
-File: files/cesiumLogoSolido.png Graphic file (type png)
+(./departamentos/Direccao/semana_lei.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
 
-<use files/cesiumLogoSolido.png>
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 9.
- [1
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 34.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./files/cesiumLogoSolido.p
-ng>]) (./indice.tex
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
 
-(./main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
+<files/cesiumLogoSolido.png, id=1, 356.532pt x 97.3236pt>
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
+
+<use files/cesiumLogoSolido.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 40.69623pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1]) (./geral.tex
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 17.
- (/usr/share/texmf-texlive/tex/latex/psnfss/omsphv.fd
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
-File: files/cesiumLogoSolido.png Graphic file (type png)
+[1
 
-<use files/cesiumLogoSolido.png> [2]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [3])
-(./content.tex (./departamentos/Recreativo/main.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-) (./departamentos/Recreativo/activities.tex)
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[4] (./departamentos/ComImg/main.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-) (./departamentos/ComImg/activities.tex)
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[5] (./departamentos/DREP/main.tex) (./departamentos/DREP/activities.tex)
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [6] (./departamentos/CAOS/main.tex)
-(./departamentos/CAOS/activities.tex (./departamentos/CAOS/php.tex
-Underfull \hbox (badness 10000) in paragraph at lines 10--1
-
- []
-
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
-) (./departamentos/CAOS/bash_scripting.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[7]) (./departamentos/CAOS/javascript.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
-) (./departamentos/CAOS/shell_talk.tex) (./departamentos/CAOS/latex.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [8])
-(./departamentos/CAOS/makefiles.tex) (./departamentos/CAOS/prolog.tex)
-(./departamentos/CAOS/lip.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [9]))
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [10] (./departamentos/Direccao/main.tex)
-(./departamentos/Direccao/activities.tex
-(./departamentos/Direccao/ENEI_2012.tex)
-(./departamentos/Direccao/ENEI_2011.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[11]) (./departamentos/Direccao/drupal.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[12]) (./departamentos/Direccao/uminho_code.tex)
-(./departamentos/Direccao/codebits.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[13]) (./departamentos/Direccao/semana_lei.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [14]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./files/cesiumLogoSolido.p
+ng>]
 Overfull \hbox (5.9795pt too wide) in paragraph at lines 50--52
 [] \OT1/phv/b/n/10 Tor-neio de Ma-tra-qui-lhos \OT1/phv/m/n/10 Ire-mos ap[]os o
  jan-tar, re-a-li-zar um Tor-neio de Ma-tra-qui-lhos no Bar Acad[]emico.
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [15]
+<use files/cesiumLogoSolido.png> [2]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [16]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [17]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [18]
+ <use files/cesiumLogoSolido.png> [3]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [19]
+<use files/cesiumLogoSolido.png> [4]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [20]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [21]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [22]
+ <use files/cesiumLogoSolido.png> [5]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [23]
+<use files/cesiumLogoSolido.png> [6]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [7]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [8]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [9]
 Underfull \hbox (badness 10000) in paragraph at lines 417--418
 
  []
@@ -381,27 +310,27 @@ Overfull \hbox (41.411pt too wide) in paragraph at lines 420--465
  [] 
  []
 
-))) (./final.tex)
+)
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [24] (./main.aux) ) 
+ <use files/cesiumLogoSolido.png> [10] (./main_semanaLei.aux) ) 
 Here is how much of TeX's memory you used:
- 3468 strings out of 493848
- 46535 string characters out of 1152824
+ 3370 strings out of 493848
+ 44503 string characters out of 1152824
  206940 words of memory out of 3000000
- 6618 multiletter control sequences out of 15000+50000
- 19273 words of font info for 34 fonts, out of 3000000 for 9000
+ 6603 multiletter control sequences out of 15000+50000
+ 11275 words of font info for 24 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 33i,16n,43p,660b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/
-fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
-.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/
-fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/h
-elvetic/uhvro8a.pfb>
-Output written on main.pdf (25 pages, 152669 bytes).
+ 26i,15n,43p,505b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texm
+f-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pfb
+></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texm
+f-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/t
+ype1/urw/helvetic/uhvro8a.pfb>
+Output written on main_semanaLei.pdf (10 pages, 132243 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
