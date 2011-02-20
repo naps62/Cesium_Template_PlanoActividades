@@ -13,98 +13,101 @@
 \contentsline {section}{\numberline {}Departamento: Nome do Departamento}{6}
 \contentsline {subsection}{\numberline {}Respons\IeC {\'a}veis de Departamento}{6}
 \contentsline {subsection}{\numberline {}Objectivos do departamento}{6}
-\contentsline {section}{\numberline {}Departamento: CAOS}{7}
+\contentsline {section}{\numberline {}Departamento: Nome do Departamento}{7}
 \contentsline {subsection}{\numberline {}Respons\IeC {\'a}veis de Departamento}{7}
-\contentsline {subsection}{\numberline {}Actividade: Workshop PHP}{7}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{7}
-\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{7}
-\contentsline {paragraph}{Data:}{7}
-\contentsline {subsection}{\numberline {}Actividade: Palestra sobre Bash scripting}{7}
-\contentsline {paragraph}{Publico Alvo: }{7}
+\contentsline {subsection}{\numberline {}Objectivos do departamento}{7}
+\contentsline {section}{\numberline {}Departamento: CAOS}{8}
+\contentsline {subsection}{\numberline {}Respons\IeC {\'a}veis de Departamento}{8}
+\contentsline {subsection}{\numberline {}Actividade: Workshop PHP}{8}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{8}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{8}
 \contentsline {paragraph}{Data:}{8}
-\contentsline {subsection}{\numberline {}Actividade: Palestra de JavaScript}{8}
+\contentsline {subsection}{\numberline {}Actividade: Palestra sobre Bash scripting}{8}
 \contentsline {paragraph}{Publico Alvo: }{8}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{8}
-\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{8}
-\contentsline {paragraph}{Data:}{8}
-\contentsline {subsection}{\numberline {}Actividade: Shell Talk}{8}
-\contentsline {paragraph}{Publico Alvo: }{8}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{8}
-\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{8}
-\contentsline {paragraph}{Data:}{8}
-\contentsline {subsection}{\numberline {}Actividade: Workshop Latex}{9}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{9}
+\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{9}
+\contentsline {paragraph}{Data:}{9}
+\contentsline {subsection}{\numberline {}Actividade: Palestra de JavaScript}{9}
 \contentsline {paragraph}{Publico Alvo: }{9}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{9}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{9}
 \contentsline {paragraph}{Data:}{9}
-\contentsline {subsection}{\numberline {}Actividade: Workshop sobre Makefiles}{9}
+\contentsline {subsection}{\numberline {}Actividade: Shell Talk}{9}
 \contentsline {paragraph}{Publico Alvo: }{9}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{9}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{9}
 \contentsline {paragraph}{Data:}{9}
-\contentsline {subsection}{\numberline {}Actividade: Workshop Prolog}{9}
+\contentsline {subsection}{\numberline {}Actividade: Workshop Latex}{10}
 \contentsline {paragraph}{Publico Alvo: }{10}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{10}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{10}
 \contentsline {paragraph}{Data:}{10}
-\contentsline {subsection}{\numberline {}Actividade: Linux Installation Party}{10}
+\contentsline {subsection}{\numberline {}Actividade: Workshop sobre Makefiles}{10}
 \contentsline {paragraph}{Publico Alvo: }{10}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{10}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{10}
 \contentsline {paragraph}{Data:}{10}
-\contentsline {section}{\numberline {}Departamento: Presid\IeC {\^e}ncia do CeSIUM}{11}
-\contentsline {subsection}{\numberline {}Respons\IeC {\'a}veis de Departamento}{11}
-\contentsline {subsection}{\numberline {}Objectivos do departamento}{11}
-\contentsline {subsection}{\numberline {}Actividade: Candidatura \IeC {\`a} organiza\IeC {\c c}\IeC {\~a}o do ENEI 2012}{11}
-\contentsline {paragraph}{Publico Alvo: }{12}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{12}
-\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{12}
-\contentsline {paragraph}{Data:}{12}
-\contentsline {subsection}{\numberline {}Actividade: ENEI 2011}{12}
+\contentsline {subsection}{\numberline {}Actividade: Workshop Prolog}{10}
+\contentsline {paragraph}{Publico Alvo: }{11}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{11}
+\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{11}
+\contentsline {paragraph}{Data:}{11}
+\contentsline {subsection}{\numberline {}Actividade: Linux Installation Party}{11}
+\contentsline {paragraph}{Publico Alvo: }{11}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{11}
+\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{11}
+\contentsline {paragraph}{Data:}{11}
+\contentsline {section}{\numberline {}Departamento: Presid\IeC {\^e}ncia do CeSIUM}{12}
+\contentsline {subsection}{\numberline {}Respons\IeC {\'a}veis de Departamento}{12}
+\contentsline {subsection}{\numberline {}Objectivos do departamento}{12}
+\contentsline {subsection}{\numberline {}Actividade: Candidatura \IeC {\`a} organiza\IeC {\c c}\IeC {\~a}o do ENEI 2012}{12}
 \contentsline {paragraph}{Publico Alvo: }{13}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{13}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{13}
 \contentsline {paragraph}{Data:}{13}
-\contentsline {subsection}{\numberline {}Actividade: Col\IeC {\'o}quio de Drupal 2011}{13}
-\contentsline {paragraph}{Publico Alvo: }{13}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{13}
+\contentsline {subsection}{\numberline {}Actividade: ENEI 2011}{13}
+\contentsline {paragraph}{Publico Alvo: }{14}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{14}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{14}
 \contentsline {paragraph}{Data:}{14}
-\contentsline {subsection}{\numberline {}Actividade: UMinho Code}{15}
-\contentsline {paragraph}{Publico Alvo: }{15}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{15}
+\contentsline {subsection}{\numberline {}Actividade: Col\IeC {\'o}quio de Drupal 2011}{14}
+\contentsline {paragraph}{Publico Alvo: }{14}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{14}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{15}
 \contentsline {paragraph}{Data:}{15}
-\contentsline {subsection}{\numberline {}Actividade: Sapo Codebits 2010}{16}
+\contentsline {subsection}{\numberline {}Actividade: UMinho Code}{16}
 \contentsline {paragraph}{Publico Alvo: }{16}
 \contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{16}
 \contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{16}
 \contentsline {paragraph}{Data:}{16}
-\contentsline {subsection}{\numberline {}Semana da LEI 2011}{17}
-\contentsline {paragraph}{}{17}
-\contentsline {paragraph}{Actua\IeC {\c c}\IeC {\~a}o dos iPum:}{17}
-\contentsline {paragraph}{Torneio de Robocode}{17}
-\contentsline {paragraph}{Torneio de Matraquilhos}{18}
-\contentsline {paragraph}{Torneio de Ping Pong:}{18}
-\contentsline {paragraph}{Torneio de Bilhar:}{19}
-\contentsline {paragraph}{Karaoke no BA?:}{19}
-\contentsline {paragraph}{Torneio de PES}{20}
-\contentsline {paragraph}{Torneio de Guitar Hero}{20}
-\contentsline {paragraph}{Torneio de BUZZ}{21}
-\contentsline {paragraph}{Rally das Tascas}{21}
-\contentsline {paragraph}{Sess\IeC {\~a}o pedag\IeC {\'o}gica}{22}
-\contentsline {paragraph}{Jogos de Futebol}{22}
-\contentsline {paragraph}{Jantar de Curso}{22}
-\contentsline {paragraph}{Festa no Sardinha}{23}
-\contentsline {paragraph}{Time Trial Talks (3T)}{23}
-\contentsline {paragraph}{CeSIUMovies}{23}
-\contentsline {paragraph}{CeSIUM RoadShow}{24}
-\contentsline {paragraph}{Torneio de Poker}{24}
-\contentsline {paragraph}{Publico Alvo:}{24}
-\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{24}
-\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{24}
-\contentsline {paragraph}{Data:}{24}
-\contentsline {subsection}{\numberline {}Calend\IeC {\'a}rio da Semana}{25}
-\contentsline {section}{\numberline {}Necessidades Materiais para o CeSIUM}{25}
+\contentsline {subsection}{\numberline {}Actividade: Sapo Codebits 2010}{17}
+\contentsline {paragraph}{Publico Alvo: }{17}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{17}
+\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{17}
+\contentsline {paragraph}{Data:}{17}
+\contentsline {subsection}{\numberline {}Semana da LEI 2011}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{Actua\IeC {\c c}\IeC {\~a}o dos iPum:}{18}
+\contentsline {paragraph}{Torneio de Robocode}{18}
+\contentsline {paragraph}{Torneio de Matraquilhos}{19}
+\contentsline {paragraph}{Torneio de Ping Pong:}{19}
+\contentsline {paragraph}{Torneio de Bilhar:}{20}
+\contentsline {paragraph}{Karaoke no BA?:}{20}
+\contentsline {paragraph}{Torneio de PES}{21}
+\contentsline {paragraph}{Torneio de Guitar Hero}{21}
+\contentsline {paragraph}{Torneio de BUZZ}{22}
+\contentsline {paragraph}{Rally das Tascas}{22}
+\contentsline {paragraph}{Sess\IeC {\~a}o pedag\IeC {\'o}gica}{23}
+\contentsline {paragraph}{Jogos de Futebol}{23}
+\contentsline {paragraph}{Jantar de Curso}{23}
+\contentsline {paragraph}{Festa no Sardinha}{24}
+\contentsline {paragraph}{Time Trial Talks (3T)}{24}
+\contentsline {paragraph}{CeSIUMovies}{24}
+\contentsline {paragraph}{CeSIUM RoadShow}{25}
+\contentsline {paragraph}{Torneio de Poker}{25}
+\contentsline {paragraph}{Publico Alvo:}{25}
+\contentsline {paragraph}{Esta actividade j\IeC {\'a} se realizou em anos anteriores?}{25}
+\contentsline {paragraph}{N\IeC {\'u}mero de Participantes Esperado:}{25}
+\contentsline {paragraph}{Data:}{25}
+\contentsline {subsection}{\numberline {}Calend\IeC {\'a}rio da Semana}{26}
+\contentsline {section}{\numberline {}Necessidades Materiais para o CeSIUM}{26}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  20 FEB 2011 00:27
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  20 FEB 2011 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -164,7 +164,8 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidth=\dimen114
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
-) (./main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
@@ -180,7 +181,6 @@ LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 52.
-
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -300,29 +300,33 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 (./departamentos/DREP/activities.tex)
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [6]
-(./departamentos/CAOS/main.tex) (./departamentos/CAOS/activities.tex
+(./departamentos/Pedagogico/main.tex)
+(./departamentos/Pedagogico/activities.tex)
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[7] (./departamentos/CAOS/main.tex) (./departamentos/CAOS/activities.tex
 (./departamentos/CAOS/php.tex) (./departamentos/CAOS/bash_scripting.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [7]) (./departamentos/CAOS/javascript.tex)
+<use files/cesiumLogoSolido.png> [8]) (./departamentos/CAOS/javascript.tex)
 (./departamentos/CAOS/shell_talk.tex) (./departamentos/CAOS/latex.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [8]) (./departamentos/CAOS/makefiles.tex)
+<use files/cesiumLogoSolido.png> [9]) (./departamentos/CAOS/makefiles.tex)
 (./departamentos/CAOS/prolog.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [9])
+ <use files/cesiumLogoSolido.png> [10])
 (./departamentos/CAOS/lip.tex))
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [10]
+ <use files/cesiumLogoSolido.png> [11]
 (./departamentos/Direccao/main.tex) (./departamentos/Direccao/activities.tex
 (./departamentos/Direccao/ENEI_2012.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[11]) (./departamentos/Direccao/ENEI_2011.tex
+[12]) (./departamentos/Direccao/ENEI_2011.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[12]) (./departamentos/Direccao/drupal.tex
+[13]) (./departamentos/Direccao/drupal.tex
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
 )
@@ -332,43 +336,43 @@ umero li-mi-tado de lu-ga-res, su-jeito a confirma[][]ao.
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [13])
+<use files/cesiumLogoSolido.png> [14])
 (./departamentos/Direccao/uminho_code.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[14]) (./departamentos/Direccao/codebits.tex
+[15]) (./departamentos/Direccao/codebits.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[15]) (./departamentos/Direccao/semana_lei.tex
+[16]) (./departamentos/Direccao/semana_lei.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [16]
+<use files/cesiumLogoSolido.png> [17]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 21.
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [17]
+ <use files/cesiumLogoSolido.png> [18]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [18]
+<use files/cesiumLogoSolido.png> [19]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [19]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [20]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [21]
+ <use files/cesiumLogoSolido.png> [20]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [22]
+<use files/cesiumLogoSolido.png> [21]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [22]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [23]
 Overfull \hbox (27.7875pt too wide) in paragraph at lines 372--373
 []\OT1/phv/m/n/10 Maratona de mini-palestras da-das por alu-nos e in-ves-ti-ga-
 do-res da UM, com pr[]emios para as apresenta[][]oes
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [23]
+<use files/cesiumLogoSolido.png> [24]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [24]
+ <use files/cesiumLogoSolido.png> [25]
 Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
@@ -380,10 +384,10 @@ Overfull \hbox (41.411pt too wide) in paragraph at lines 535--580
 
 ))) (./final.tex)
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [25] (./main.aux) ) 
+ <use files/cesiumLogoSolido.png> [26] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3718 strings out of 493848
- 49367 string characters out of 1152824
+ 3721 strings out of 493848
+ 49522 string characters out of 1152824
  206940 words of memory out of 3000000
  6863 multiletter control sequences out of 15000+50000
  19273 words of font info for 34 fonts, out of 3000000 for 9000
@@ -396,9 +400,9 @@ ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
 re/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/h
 elvetic/uhvro8a.pfb>
-Output written on main.pdf (26 pages, 160225 bytes).
+Output written on main.pdf (27 pages, 161380 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
