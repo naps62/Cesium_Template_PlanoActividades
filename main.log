@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  20 FEB 2011 00:33
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  25 FEB 2011 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -164,8 +164,7 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidth=\dimen114
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
-)
-No file main.aux.
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
@@ -181,6 +180,7 @@ LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 52.
+
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -354,31 +354,31 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
 <use files/cesiumLogoSolido.png> [19]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [20]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [21]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [22]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [23]
-Overfull \hbox (27.7875pt too wide) in paragraph at lines 372--373
+Overfull \hbox (27.7875pt too wide) in paragraph at lines 176--177
 []\OT1/phv/m/n/10 Maratona de mini-palestras da-das por alu-nos e in-ves-ti-ga-
 do-res da UM, com pr[]emios para as apresenta[][]oes
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [20]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [21]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [22]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [23]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
 <use files/cesiumLogoSolido.png> [24]
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [25]
-Underfull \hbox (badness 10000) in paragraph at lines 532--533
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
  []
 
 
-Overfull \hbox (41.411pt too wide) in paragraph at lines 535--580
+Overfull \hbox (41.411pt too wide) in paragraph at lines 538--583
  [] 
  []
 
@@ -386,13 +386,13 @@ Overfull \hbox (41.411pt too wide) in paragraph at lines 535--580
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [26] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3721 strings out of 493848
- 49522 string characters out of 1152824
+ 3723 strings out of 493848
+ 49540 string characters out of 1152824
  206940 words of memory out of 3000000
  6863 multiletter control sequences out of 15000+50000
  19273 words of font info for 34 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 32i,16n,43p,660b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,16n,43p,660b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/
 fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
@@ -400,7 +400,7 @@ ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
 re/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/h
 elvetic/uhvro8a.pfb>
-Output written on main.pdf (27 pages, 161380 bytes).
+Output written on main.pdf (27 pages, 161758 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

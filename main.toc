@@ -93,15 +93,15 @@
 \contentsline {paragraph}{Torneio de Ping Pong:}{19}
 \contentsline {paragraph}{Torneio de Bilhar:}{20}
 \contentsline {paragraph}{Karaoke no BA?:}{20}
-\contentsline {paragraph}{Torneio de PES}{21}
-\contentsline {paragraph}{Torneio de Guitar Hero}{21}
-\contentsline {paragraph}{Torneio de BUZZ}{22}
-\contentsline {paragraph}{Rally das Tascas}{22}
-\contentsline {paragraph}{Sess\IeC {\~a}o pedag\IeC {\'o}gica}{23}
-\contentsline {paragraph}{Jogos de Futebol}{23}
+\contentsline {paragraph}{Time Trial Talks (3T)}{21}
+\contentsline {paragraph}{Rally das Tascas}{21}
+\contentsline {paragraph}{Sess\IeC {\~a}o pedag\IeC {\'o}gica}{22}
+\contentsline {paragraph}{Jogos de Futebol}{22}
 \contentsline {paragraph}{Jantar de Curso}{23}
-\contentsline {paragraph}{Festa no Sardinha}{24}
-\contentsline {paragraph}{Time Trial Talks (3T)}{24}
+\contentsline {paragraph}{Festa no Sardinha}{23}
+\contentsline {paragraph}{Torneio de PES}{23}
+\contentsline {paragraph}{Torneio de Guitar Hero}{24}
+\contentsline {paragraph}{Torneio de BUZZ}{24}
 \contentsline {paragraph}{CeSIUMovies}{24}
 \contentsline {paragraph}{CeSIUM RoadShow}{25}
 \contentsline {paragraph}{Torneio de Poker}{25}
