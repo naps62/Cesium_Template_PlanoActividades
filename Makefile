@@ -4,9 +4,10 @@ compile:
 	./refgen.pl
 
 clean:
-	rm *.aux *.log
+	rm *.aux *.log *.toc
 
 pdf: compile
+	pdflatex main.tex
 	pdflatex main.tex
 
 view: pdf
