@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  25 FEB 2011 18:57
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  6 MAR 2011 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -121,6 +121,10 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box27
 \rot@mess@toks=\toks21
 )
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
 (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
@@ -164,23 +168,23 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidth=\dimen114
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
-) (./main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 52.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 53.
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -256,14 +260,7 @@ ng>]) (./indice.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
 
-(./main.toc
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-)
+(./main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -290,89 +287,231 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [3])
 (./content.tex (./departamentos/Recreativo/main.tex)
-(./departamentos/Recreativo/activities.tex)
+(./departamentos/Recreativo/activities.tex
+(./departamentos/Recreativo/fdsradical.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[4] (./departamentos/ComImg/main.tex) (./departamentos/ComImg/activities.tex)
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+) (./departamentos/Recreativo/torneiojogoselectronicos.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [5] (./departamentos/DREP/main.tex)
-(./departamentos/DREP/activities.tex)
+<use files/cesiumLogoSolido.png> [5])
+(./departamentos/Recreativo/torneiobilharesmatrecos.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [6]
+
+<use files/cesiumLogoSolido.png> [6]) (./departamentos/Recreativo/uminhoCup.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [7])
+(./departamentos/Recreativo/Arrail_da_LEI.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[8]) (./departamentos/Recreativo/torneio_feminino.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [9])
+(./departamentos/Recreativo/geek_on_bikes.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[10]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [11] (./departamentos/ComImg/main.tex)
+(./departamentos/ComImg/activities.tex
+(./departamentos/ComImg/workshop_fotografia_2.tex
+Overfull \hbox (16.65935pt too wide) in paragraph at lines 4--7
+[]\OT1/phv/m/n/10 No se-gui-mento do worksho an-te-rior, os alu-nos con-so-li-d
+am os co-nhe-ci-men-tos j[]a ad-qui-ri-dos e expandem-
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [12]) (./departamentos/ComImg/jornal.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+) (./departamentos/ComImg/plano_imagem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [13]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+))
+(./departamentos/ComImg/workshop_fotografia.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [14])
+(./departamentos/ComImg/workshop_edicao_video.tex)
+(./departamentos/ComImg/workshop_podcast.tex)
+(./departamentos/ComImg/workshop_photoshop.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [15]) (./departamentos/ComImg/presenca_web.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [16]) (./departamentos/ComImg/cartazes.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (./departamentos/ComImg/podcast.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [17])
+(./departamentos/ComImg/workshop_web_design.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [18]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[19] (./departamentos/DREP/main.tex) (./departamentos/DREP/activities.tex
+(./departamentos/DREP/roadshow.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [20])
+(./departamentos/DREP/conferencia.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [21])
+(./departamentos/DREP/livro.tex) (./departamentos/DREP/seminario.tex
+Overfull \hbox (2.44261pt too wide) in paragraph at lines 4--6
+\OT1/phv/m/n/10 O Jorge, acom-pa-nhado pelo Ti-ago Ri-beiro, tamb[]em ex-LESI, 
+e Rui Ma-ri-nho, ex aluno de Eng Biom[]edica,
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [22]) (./departamentos/DREP/kit.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [23]) (./departamentos/DREP/seminario2.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [24]) (./departamentos/DREP/ami.tex))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [25]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [26]
 (./departamentos/Pedagogico/main.tex)
-(./departamentos/Pedagogico/activities.tex)
+(./departamentos/Pedagogico/activities.tex
+(./departamentos/Pedagogico/defenderAlunos.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [27]) (./departamentos/Pedagogico/visitas.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [28]) (./departamentos/Pedagogico/Painel.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [29]) (./departamentos/Pedagogico/forum.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [30]))
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[7] (./departamentos/CAOS/main.tex) (./departamentos/CAOS/activities.tex
-(./departamentos/CAOS/php.tex) (./departamentos/CAOS/bash_scripting.tex
+[31] (./departamentos/CAOS/main.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 12.
+) (./departamentos/CAOS/activities.tex
+(./departamentos/CAOS/javascript.poia.tex) (./departamentos/CAOS/130_latex.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [8]) (./departamentos/CAOS/javascript.tex)
-(./departamentos/CAOS/shell_talk.tex) (./departamentos/CAOS/latex.tex
+<use files/cesiumLogoSolido.png> [32]) (./departamentos/CAOS/110_lip.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [9]) (./departamentos/CAOS/makefiles.tex)
-(./departamentos/CAOS/prolog.tex
+<use files/cesiumLogoSolido.png> [33]) (./departamentos/CAOS/150_introperl.tex)
+(./departamentos/CAOS/090_tiup.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [10])
-(./departamentos/CAOS/lip.tex))
+ <use files/cesiumLogoSolido.png> [34])
+(./departamentos/CAOS/120_shell_talk.tex) (./departamentos/CAOS/140_php.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [11]
-(./departamentos/Direccao/main.tex) (./departamentos/Direccao/activities.tex
+
+<use files/cesiumLogoSolido.png> [35])
+(./departamentos/CAOS/020_bash_scripting.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[36]) (./departamentos/CAOS/093_servidores.tex)
+(./departamentos/CAOS/094_sitecesium.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[37]) (./departamentos/CAOS/010_prolog.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[38]) (./departamentos/CAOS/040_perladv.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[39]) (./departamentos/CAOS/092_mirror.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[40]) (./departamentos/CAOS/030_git.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[41]) (./departamentos/CAOS/070_webdev.tex)
+(./departamentos/CAOS/060_mobileapps.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[42]) (./departamentos/CAOS/091_dpum.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[43]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [44] (./departamentos/Direccao/main.tex) (./d
+epartamentos/Direccao/activities.tex
 (./departamentos/Direccao/ENEI_2012.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[12]) (./departamentos/Direccao/ENEI_2011.tex
+[45]) (./departamentos/Direccao/ENEI_2011.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[13]) (./departamentos/Direccao/drupal.tex
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-)
+[46]) (./departamentos/Direccao/drupal.tex
 Overfull \hbox (12.24075pt too wide) in paragraph at lines 4--8
 []\OT1/phv/m/n/10 O acesso ao Col[]oquio Dru-pal []e gra-tuito mas, face ao n[]
 umero li-mi-tado de lu-ga-res, su-jeito a confirma[][]ao. 
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [14])
+<use files/cesiumLogoSolido.png> [47])
 (./departamentos/Direccao/uminho_code.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[15]) (./departamentos/Direccao/codebits.tex
+[48]) (./departamentos/Direccao/codebits.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[16]) (./departamentos/Direccao/semana_lei.tex
+[49]) (./departamentos/Direccao/semana_lei.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [17]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 21.
+<use files/cesiumLogoSolido.png> [50]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [18]
+ <use files/cesiumLogoSolido.png> [51]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [19]
+<use files/cesiumLogoSolido.png> [52]
 Overfull \hbox (27.7875pt too wide) in paragraph at lines 176--177
 []\OT1/phv/m/n/10 Maratona de mini-palestras da-das por alu-nos e in-ves-ti-ga-
 do-res da UM, com pr[]emios para as apresenta[][]oes
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [20]
+<use files/cesiumLogoSolido.png> [53]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [21]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [22]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [23]
+ <use files/cesiumLogoSolido.png> [54]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [24]
+<use files/cesiumLogoSolido.png> [55]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [25]
+ <use files/cesiumLogoSolido.png> [56]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [57]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [58]
 Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
  []
@@ -384,25 +523,26 @@ Overfull \hbox (41.411pt too wide) in paragraph at lines 538--583
 
 ))) (./final.tex)
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [26] (./main.aux) ) 
+ <use files/cesiumLogoSolido.png> [59] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3723 strings out of 493848
- 49540 string characters out of 1152824
- 206940 words of memory out of 3000000
- 6863 multiletter control sequences out of 15000+50000
- 19273 words of font info for 34 fonts, out of 3000000 for 9000
+ 3920 strings out of 493848
+ 53998 string characters out of 1152824
+ 213025 words of memory out of 3000000
+ 6942 multiletter control sequences out of 15000+50000
+ 19441 words of font info for 35 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 30i,16n,43p,660b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 33i,16n,43p,856b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/
 fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
-.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/
-fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/h
-elvetic/uhvro8a.pfb>
-Output written on main.pdf (27 pages, 161758 bytes).
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf-te
+xlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1
+/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhv
+ro8a.pfb>
+Output written on main.pdf (60 pages, 247600 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 227 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
