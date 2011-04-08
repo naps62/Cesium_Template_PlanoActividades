@@ -1,6 +1,5 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.2.7)  6 MAR 2011 16:04
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.3.25)  8 APR 2011 23:37
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -295,225 +294,165 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 <use files/cesiumLogoSolido.png> [3]
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [4])
-(./content.tex (./departamentos/Recreativo/main.tex)
-(./departamentos/Recreativo/activities.tex
-(./departamentos/Recreativo/fdsradical.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[5]) (./departamentos/Recreativo/torneiojogoselectronicos.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [6])
-(./departamentos/Recreativo/torneiobilharesmatrecos.tex
+(./content.tex (./departamentos/CAOS/main.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 12.
+)
+(./departamentos/CAOS/activities.tex (./departamentos/CAOS/010_prolog.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [7]) (./departamentos/Recreativo/uminhoCup.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [8])
-(./departamentos/Recreativo/Arrail_da_LEI.tex
+<use files/cesiumLogoSolido.png> [5])
+(./departamentos/CAOS/020_bash_scripting.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[9]) (./departamentos/Recreativo/torneio_feminino.tex
+[6]) (./departamentos/CAOS/030_git.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[7]) (./departamentos/CAOS/040_perladv.tex)
+(./departamentos/CAOS/060_mobileapps.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[8]) (./departamentos/CAOS/070_webdev.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[9]) (./departamentos/CAOS/090_tiup.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[10]) (./departamentos/CAOS/091_dpum.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[11]) (./departamentos/CAOS/092_mirror.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[12]) (./departamentos/CAOS/093_servidores.tex)
+(./departamentos/CAOS/094_sitecesium.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[13]) (./departamentos/CAOS/110_lip.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[14]) (./departamentos/CAOS/120_shell_talk.tex)
+(./departamentos/CAOS/130_latex.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [15])
+(./departamentos/CAOS/140_php.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [16])
+(./departamentos/CAOS/150_introperl.tex)
+(./departamentos/CAOS/200_orcamento.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[17]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [18] (./departamentos/ComImg/main.tex)
+(./departamentos/ComImg/activities.tex (./departamentos/ComImg/020_cartazes.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (./departamentos/ComImg/030_jornal.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [19])
+(./departamentos/ComImg/040_plano_imagem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [20]) (./departamentos/ComImg/050_podcast.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) (./departamentos/ComImg/060_presenca_web.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [10])
-(./departamentos/Recreativo/geek_on_bikes.tex
+<use files/cesiumLogoSolido.png> [21]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+))
+(./departamentos/ComImg/070_workshop_edicao_video.tex)
+(./departamentos/ComImg/080_workshop_fotografia.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[11]))
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [12] (./departamentos/ComImg/main.tex)
-(./departamentos/ComImg/activities.tex
-(./departamentos/ComImg/workshop_fotografia_2.tex
+
+<use files/cesiumLogoSolido.png> [22])
+(./departamentos/ComImg/090_workshop_fotografia_2.tex
 Overfull \hbox (16.65935pt too wide) in paragraph at lines 4--7
 []\OT1/phv/m/n/10 No se-gui-mento do worksho an-te-rior, os alu-nos con-so-li-d
 am os co-nhe-ci-men-tos j[]a ad-qui-ri-dos e expandem-
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [13]) (./departamentos/ComImg/jornal.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
-
- []
-
-) (./departamentos/ComImg/plano_imagem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-
- []
-
-File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [14]
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-))
-(./departamentos/ComImg/workshop_fotografia.tex
+<use files/cesiumLogoSolido.png> [23])
+(./departamentos/ComImg/091_workshop_photoshop.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [15])
-(./departamentos/ComImg/workshop_edicao_video.tex)
-(./departamentos/ComImg/workshop_podcast.tex)
-(./departamentos/ComImg/workshop_photoshop.tex
+<use files/cesiumLogoSolido.png> [24])
+(./departamentos/ComImg/092_workshop_podcast.tex)
+(./departamentos/ComImg/093_workshop_web_design.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [16]) (./departamentos/ComImg/presenca_web.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [17]) (./departamentos/ComImg/cartazes.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-) (./departamentos/ComImg/podcast.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-
- []
-
-File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [18])
-(./departamentos/ComImg/workshop_web_design.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [19]))
+<use files/cesiumLogoSolido.png> [25])
+(./departamentos/ComImg/200_orcamento.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[20] (./departamentos/DREP/main.tex) (./departamentos/DREP/activities.tex
-(./departamentos/DREP/roadshow.tex
+[26]))
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [21])
-(./departamentos/DREP/conferencia.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [22])
-(./departamentos/DREP/livro.tex) (./departamentos/DREP/seminario.tex
-Overfull \hbox (2.44261pt too wide) in paragraph at lines 4--6
-\OT1/phv/m/n/10 O Jorge, acom-pa-nhado pelo Ti-ago Ri-beiro, tamb[]em ex-LESI, 
-e Rui Ma-ri-nho, ex aluno de Eng Biom[]edica,
- []
-
-File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [23]) (./departamentos/DREP/kit.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [24]) (./departamentos/DREP/seminario2.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [25]) (./departamentos/DREP/ami.tex))
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [26]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [27]
-(./departamentos/Pedagogico/main.tex)
-(./departamentos/Pedagogico/activities.tex
-(./departamentos/Pedagogico/defenderAlunos.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [28]) (./departamentos/Pedagogico/visitas.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [29]) (./departamentos/Pedagogico/Painel.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [30]) (./departamentos/Pedagogico/forum.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [31]))
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[32] (./departamentos/CAOS/main.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 12.
-) (./departamentos/CAOS/activities.tex
-(./departamentos/CAOS/javascript.poia.tex) (./departamentos/CAOS/130_latex.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [33]) (./departamentos/CAOS/110_lip.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [34]) (./departamentos/CAOS/150_introperl.tex)
-(./departamentos/CAOS/090_tiup.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [35])
-(./departamentos/CAOS/120_shell_talk.tex) (./departamentos/CAOS/140_php.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [36])
-(./departamentos/CAOS/020_bash_scripting.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[37]) (./departamentos/CAOS/093_servidores.tex)
-(./departamentos/CAOS/094_sitecesium.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[38]) (./departamentos/CAOS/010_prolog.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[39]) (./departamentos/CAOS/040_perladv.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[40]) (./departamentos/CAOS/092_mirror.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[41]) (./departamentos/CAOS/030_git.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[42]) (./departamentos/CAOS/070_webdev.tex)
-(./departamentos/CAOS/060_mobileapps.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[43]) (./departamentos/CAOS/091_dpum.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[44]))
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [45] (./departamentos/Direccao/main.tex) (./d
+ <use files/cesiumLogoSolido.png> [27] (./departamentos/Direccao/main.tex) (./d
 epartamentos/Direccao/activities.tex
-(./departamentos/Direccao/ENEI_2012.tex
+(./departamentos/Direccao/010_codebits.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[46]) (./departamentos/Direccao/ENEI_2011.tex
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
-[47]) (./departamentos/Direccao/drupal.tex
+[28]) (./departamentos/Direccao/020_drupal.tex
 Overfull \hbox (12.24075pt too wide) in paragraph at lines 4--8
 []\OT1/phv/m/n/10 O acesso ao Col[]oquio Dru-pal []e gra-tuito mas, face ao n[]
 umero li-mi-tado de lu-ga-res, su-jeito a confirma[][]ao. 
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [48])
-(./departamentos/Direccao/uminho_code.tex
+<use files/cesiumLogoSolido.png> [29])
+(./departamentos/Direccao/030_ENEI_2011.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[49]) (./departamentos/Direccao/codebits.tex
+[30]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [31])
+(./departamentos/Direccao/040_ENEI_2012.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[50]) (./departamentos/Direccao/semana_lei.tex
+[32]) (./departamentos/Direccao/050_semana_lei.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [51]
+<use files/cesiumLogoSolido.png> [33]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [52]
+ <use files/cesiumLogoSolido.png> [34]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [53]
+<use files/cesiumLogoSolido.png> [35]
 Overfull \hbox (27.7875pt too wide) in paragraph at lines 176--177
 []\OT1/phv/m/n/10 Maratona de mini-palestras da-das por alu-nos e in-ves-ti-ga-
 do-res da UM, com pr[]emios para as apresenta[][]oes
  []
 
 File: files/cesiumLogoSolido.png Graphic file (type png)
-<use files/cesiumLogoSolido.png> [54]
+<use files/cesiumLogoSolido.png> [36]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [55]
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png> [56]
-File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [57]
+ <use files/cesiumLogoSolido.png> [37]
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [58]
+<use files/cesiumLogoSolido.png> [38]
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [59]
+ <use files/cesiumLogoSolido.png> [39]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [40]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [41]
 Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
  []
@@ -523,28 +462,116 @@ Overfull \hbox (41.411pt too wide) in paragraph at lines 538--583
  [] 
  []
 
-))) (./final.tex)
+) (./departamentos/Direccao/060_uminho_code.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [60] (./main.aux) ) 
+
+<use files/cesiumLogoSolido.png> [42])
+(./departamentos/Direccao/200_orcamento.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[43]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [44] (./departamentos/DREP/main.tex)
+(./departamentos/DREP/activities.tex (./departamentos/DREP/010_ami.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [45])
+(./departamentos/DREP/020_conferencia.tex) (./departamentos/DREP/030_kit.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [46]) (./departamentos/DREP/040_livro.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [47]) (./departamentos/DREP/050_roadshow.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [48]) (./departamentos/DREP/060_seminario.tex
+Overfull \hbox (2.44261pt too wide) in paragraph at lines 4--6
+\OT1/phv/m/n/10 O Jorge, acom-pa-nhado pelo Ti-ago Ri-beiro, tamb[]em ex-LESI, 
+e Rui Ma-ri-nho, ex aluno de Eng Biom[]edica,
+ []
+
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [49]) (./departamentos/DREP/070_seminario2.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+<use files/cesiumLogoSolido.png> [50]) (./departamentos/DREP/200_orcamento.tex)
+)
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [51] (./departamentos/Pedagogico/main.tex)
+(./departamentos/Pedagogico/activities.tex
+(./departamentos/Pedagogico/010_defenderAlunos.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [52])
+(./departamentos/Pedagogico/020_forum.tex)
+(./departamentos/Pedagogico/040_Painel.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[53]) (./departamentos/Pedagogico/050_visitas.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [54])
+(./departamentos/Pedagogico/200_orcamento.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[55]))
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [56]
+(./departamentos/Recreativo/main.tex)
+(./departamentos/Recreativo/activities.tex
+(./departamentos/Recreativo/010_Arrail_da_LEI.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [57])
+(./departamentos/Recreativo/020_fdsradical.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [58])
+(./departamentos/Recreativo/030_geek_on_bikes.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [59])
+(./departamentos/Recreativo/040_torneio_feminino.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [60])
+(./departamentos/Recreativo/050_torneiobilharesmatrecos.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [61])
+(./departamentos/Recreativo/060_torneiojogoselectronicos.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [62])
+(./departamentos/Recreativo/070_uminhoCup.tex
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png>
+[63]) (./departamentos/Recreativo/200_orcamento.tex))) (./final.tex)
+File: files/cesiumLogoSolido.png Graphic file (type png)
+
+<use files/cesiumLogoSolido.png> [64]
+File: files/cesiumLogoSolido.png Graphic file (type png)
+ <use files/cesiumLogoSolido.png> [65]
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3920 strings out of 493848
- 53975 string characters out of 1152824
- 213222 words of memory out of 3000000
- 6940 multiletter control sequences out of 15000+50000
- 19441 words of font info for 35 fonts, out of 3000000 for 9000
+ 3932 strings out of 493848
+ 54819 string characters out of 1152823
+ 249222 words of memory out of 3000000
+ 6941 multiletter control sequences out of 15000+50000
+ 19558 words of font info for 36 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 36i,16n,43p,856b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/
-fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
-.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/
-share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf-te
-xlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1
-/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhv
-ro8a.pfb>
-Output written on main.pdf (61 pages, 258159 bytes).
+ 36i,16n,43p,860b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fonts/type1/public/
+eurosym/feybr10.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr1
+0.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share
+/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fo
+nts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (66 pages, 279388 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
+ 250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
