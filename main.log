@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.3.25)  8 APR 2011 23:37
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.3.25)  8 APR 2011 23:48
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -546,13 +546,13 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 (./departamentos/Recreativo/070_uminhoCup.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png>
-[63]) (./departamentos/Recreativo/200_orcamento.tex))) (./final.tex)
+[63]) (./departamentos/Recreativo/200_orcamento.tex))) (./final.tex
 File: files/cesiumLogoSolido.png Graphic file (type png)
 
-<use files/cesiumLogoSolido.png> [64]
+<use files/cesiumLogoSolido.png> [64])
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png> [65]
-(./main.aux) ) 
+ <use files/cesiumLogoSolido.png>
+[65] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  3932 strings out of 493848
  54819 string characters out of 1152823
@@ -561,15 +561,15 @@ Here is how much of TeX's memory you used:
  19558 words of font info for 36 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  36i,16n,43p,860b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texl
-ive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fonts/type1/public/
-eurosym/feybr10.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr1
-0.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share
-/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fo
-nts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (66 pages, 279388 bytes).
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/eurosym/feybr10.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/f
+eymr10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/
+share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texli
+ve/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (66 pages, 281560 bytes).
 PDF statistics:
  250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
